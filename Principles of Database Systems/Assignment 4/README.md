@@ -1,6 +1,6 @@
 # Database Course - Assignment 4
 
-Consider the [library]() (click the link for the sql file) database system, which keeps track of books, borrowers and book loans. The description of the database is given to you in your previous Assignment. We are adding two more columns to BOOK_LOANS table, DateIn and rating. We have also added borrower_seq to generate unique sequence card no values for new borrowers. The DateIn column tracks the date the book is checked in and rating tracks the book rating given by a borrower. A book that has not been returned will have a ‘null’ value for DateIn. Rating is a value between 1 to 10, where 10 represents that the borrower has given the highest rating for a book.
+Consider the [library](http://www.mscs.mu.edu/~praveen/Teaching/Fa18/Db/Assignments/library.sql) (click the link for the sql file) database system, which keeps track of books, borrowers and book loans. The description of the database is given to you in your previous Assignment. We are adding two more columns to BOOK_LOANS table, DateIn and rating. We have also added borrower_seq to generate unique sequence card no values for new borrowers. The DateIn column tracks the date the book is checked in and rating tracks the book rating given by a borrower. A book that has not been returned will have a ‘null’ value for DateIn. Rating is a value between 1 to 10, where 10 represents that the borrower has given the highest rating for a book.
 
  
 
