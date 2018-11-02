@@ -17,7 +17,7 @@ Course Number |  Class
 Course Number | Class
 --------------|---------------
 COSC 3100     | [Data Structures and Algorithms 2](https://github.com/Jl5her/Marquette-University/tree/master/Data%20Structures%20%26%20Algorithms%202)
-COSC 3550     | Programming Computer Games
+COSC 3550     | [Programming Computer Games](https://github.com/Jl5her/Marquette-University/tree/master/Programming%20Computer%20Games)
 ECON 1103     | Principles of Microeconomics
 MATH 3100     | Linear Alebra & Matrix Theory 
 PHIL 1001     | Philosophy of Human Nature 
@@ -26,7 +26,7 @@ PHIL 1001     | Philosophy of Human Nature
 
 Course Number | Class
 --------------|------------
-COSC 4800     | Principles of Database Systems
+COSC 4800     | [Principles of Database Systems](https://github.com/Jl5her/Marquette-University/tree/master/Principles%20of%20Database%20Systems)
 ENGL 2000     | Literature, History & Culture 
 MATH 3570     | [Introduction to Data Science](https://github.com/Jl5her/Marquette-University/tree/master/Intro%20to%20Data%20Science)
 MATH 4500     | Theory of Differential Equations
